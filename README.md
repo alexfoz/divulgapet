@@ -1,2 +1,1 @@
-# divulgapet
-Versão com bug no crud
+# projeto_integrador_II
